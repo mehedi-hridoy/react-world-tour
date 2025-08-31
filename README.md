@@ -1,12 +1,40 @@
-# React + Vite
+# React Rest Countries App 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that fetches and displays data from a REST API about countries. Built with React, this project helped me strengthen my knowledge in React fundamentals, props, state management, component building, and conditional rendering.  
 
-Currently, two official plugins are available:
+Live Demo: [https://guileless-cactus-c5dbda.netlify.app/](https://guileless-cactus-c5dbda.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fetches data from a **REST API** (Rest Countries API).  
+- **Reusable components** built to display country information.  
+- Demonstrates **React props and state** for dynamic rendering.  
+- Implements **conditional rendering** for UI feedback.  
+- Shows various **data types** handling in React components.  
+- Fully responsive UI for better user experience.
+
+---
+
+## Tech Stack
+
+- **React** (functional components, hooks)  
+- **JavaScript** (ES6+)  
+- **CSS** for styling  
+- **REST API** integration  
+
+---
+
+## What I Learned
+
+- How to pass and use **props** to make components reusable.  
+- Managing component **state** using `useState` hook.  
+- Fetching data from APIs using `fetch` and handling **asynchronous calls**.  
+- Building structured **components** for modular code.  
+- Applying **conditional rendering** to enhance UX.  
+- Handling different **types of data** in React components.
+
+---
+
+
